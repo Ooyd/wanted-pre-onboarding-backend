@@ -37,7 +37,7 @@
     - 각 채용 공고는 여러 사용자로부터 지원서를 받을 수 있습니다(o)
     - 각 지원서는 단일 채용공고로 제출됩니다. (x)
 
-![erd image](onboading_erd.png)
+![erd image](https://github.com/Ooyd/wanted-pre-onboarding-backend/blob/master/onboading_erd.PNG?raw=true)
 
 ## 3. API 설계
 [API문서_feat.postman](https://documenter.getpostman.com/view/20086866/2s9YR85Z9S)
